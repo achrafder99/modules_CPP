@@ -1,32 +1,25 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   Point.cpp                                          :+:      :+:    :+:   */
+/*   main.cpp                                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: adardour <adardour@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/07/21 21:33:09 by adardour          #+#    #+#             */
-/*   Updated: 2023/07/22 11:37:41 by adardour         ###   ########.fr       */
+/*   Created: 2023/07/22 12:06:53 by adardour          #+#    #+#             */
+/*   Updated: 2023/07/22 17:15:41 by adardour         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "Point.hpp"
+#include "ClapTrap.hpp"
 
-Point::Point() :x(0), y(0) {
-    
-}
-
-Point::Point(const float float_1, const float float_2) :x(float_1), y(float_2) {
-    
-}
-
-Point::Point(const Point &other) : x(other.x) , y(other.y)
+int main()
 {
-    
-}
+    ClapTrap cl4ptp("ddd");
 
-void    Point::operator=(const Point &other)
-{
-    x = other.x; 
-    y = other.y;
+    cl4ptp.attack("okok");
+    cl4ptp.takeDamage(6);
+    printf("hit %d\n", cl4ptp.get_hit());
+    cl4ptp.beRepaired(10);
+    printf("hit %d\n", cl4ptp.get_hit());
+    cl4ptp.attack("dardour");
 }
