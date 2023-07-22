@@ -6,12 +6,12 @@
 #    By: adardour <adardour@student.1337.ma>        +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/07/18 20:08:28 by adardour          #+#    #+#              #
-#    Updated: 2023/07/18 20:29:03 by adardour         ###   ########.fr        #
+#    Updated: 2023/07/20 09:11:48 by adardour         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 CXX = c++ -std=c++98
-CXXFLAGS = -Wall -Wextra -std=c++11
+CXXFLAGS = -Wall -Wextra -std=c++98
 
 TARGET = program
 SRCS = main.cpp Harl.cpp
