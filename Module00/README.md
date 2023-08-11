@@ -45,5 +45,3 @@ Feel free to explore each exercise's directory for code implementations and rele
 **Note:** The information provided in this README is based on the assignment's summary. Be sure to verify and tailor it to match the actual content of your repository.
 
 ---
-
-*Disclaimer: This README template is generated based on the information provided by the user and may require additional modifications or clarifications.*
