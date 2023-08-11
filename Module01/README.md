@@ -1,47 +1,66 @@
-C++ Module 01: Memory Allocation, Pointers, References, Switch Statement
-This repository contains the exercises and solutions for Module 01 of the C++ curriculum. The module focuses on memory allocation, pointers, references, and the switch statement in C++. The exercises cover various concepts and provide hands-on experience with these fundamental aspects of C++ programming.
+# C++ - Module 01: Memory Allocation, Pointers, References, and Switch Statement
 
-Table of Contents
-Introduction
-General Rules
-Exercise 00: BraiiiiiiinnnzzzZ
-Exercise 01: Moar brainz!
-Exercise 02: HI THIS IS BRAIN
-Exercise 03: Unnecessary violence
-Exercise 04: Sed is for losers
-Exercise 05: Harl 2.0
-Exercise 06: Harl filter
-Submission and Peer-Evaluation
-Introduction
-C++ Module 01 is part of the curriculum designed to introduce you to memory allocation, pointers, references, and the switch statement in C++. The module serves as a foundation for understanding key concepts in C++ programming.
+Welcome to my C++ Module 01 solutions repository. In this module, we delve into memory allocation, pointers, references, and the switch statement. Each exercise explores different aspects of these concepts.
 
-General Rules
-Compile your code with c++ and the flags -Wall -Wextra -Werror.
-Code should still compile with the flag -std=c++98.
-Adhere to formatting and naming conventions specified in the guidelines.
-Memory allocation must avoid memory leaks.
-Classes must be designed following the Orthodox Canonical Form.
-Avoid placing function implementations in header files.
-Ensure header files include all dependencies and use include guards.
-Additional guidelines are provided for specific exercises.
-Exercises
-Exercise 00: BraiiiiiiinnnzzzZ
-Implement a Zombie class with attributes and member functions to simulate zombie behavior. Explore memory allocation and pointers in the context of creating zombies.
+## Table of Contents
 
-Exercise 01: Moar brainz!
-Create a zombie horde using dynamic memory allocation. Explore creating and managing an array of zombies.
+- [Introduction](#introduction)
+- [General Rules](#general-rules)
+- [Exercise 00: BraiiiiiiinnnzzzZ](#exercise-00-braiiiiiiinnnzzzz)
+- [Exercise 01: Moar brainz!](#exercise-01-moar-brainz)
+- [Exercise 02: HI THIS IS BRAIN](#exercise-02-hi-this-is-brain)
+- [Exercise 03: Unnecessary violence](#exercise-03-unnecessary-violence)
+- [Exercise 04: Sed is for losers](#exercise-04-sed-is-for-losers)
+- [Exercise 05: Harl 2.0](#exercise-05-harl-20)
+- [Exercise 06: Harl filter](#exercise-06-harl-filter)
 
-Exercise 02: HI THIS IS BRAIN
-Explore memory addresses, pointers, and references with a string variable. Display the memory addresses and values associated with different aspects of the string.
+## Introduction
 
-Exercise 03: Unnecessary violence
-Implement a Weapon class and HumanA, HumanB classes with different characteristics. Understand the differences between using pointers and references in different scenarios.
+Module 01 of the C++ curriculum delves into memory allocation, pointers, references, and the switch statement. These exercises provide practical experience in managing memory, using pointers and references effectively, and understanding switch statements.
 
-Exercise 04: Sed is for losers
-Implement a program that reads a file, replaces occurrences of one string with another, and writes the modified content to a new file. Explore string manipulation and file handling.
+## General Rules
 
-Exercise 05: Harl 2.0
-Create a Harl class that simulates different complaint levels. Use pointers to member functions to automate Harl's complaints.
+- Compile code with `c++` using flags: `-Wall -Wextra -Werror -std=c++98`
+- Follow formatting and naming conventions specified in the guidelines
+- Name files, classes, functions, etc., according to the provided guidelines
+- Write clean, readable code; adhering to your preferred style
+- Utilize the C++ standard library, avoiding external libraries
+- Forbidden functions and practices are outlined in the guidelines
+- Implement tests to verify the correctness of your solutions
+- Ensure memory leaks are avoided and handle errors appropriately
 
-Exercise 06: Harl filter
-Implement a program to filter and display Harl's complaints based on specified log levels. Use the switch statement to control the output
+## Exercise 00: BraiiiiiiinnnzzzZ
+
+Implement a Zombie class and functions to manage zombies. For details, refer to [Exercise 00](ex00/README.md).
+
+## Exercise 01: Moar brainz!
+
+Implement a function to create a zombie horde using dynamic memory allocation. For details, refer to [Exercise 01](ex01/README.md).
+
+## Exercise 02: HI THIS IS BRAIN
+
+Create a program that explores memory addresses and references. For details, refer to [Exercise 02](ex02/README.md).
+
+## Exercise 03: Unnecessary violence
+
+Implement classes to simulate humans wielding weapons and attacking. For details, refer to [Exercise 03](ex03/README.md).
+
+## Exercise 04: Sed is for losers
+
+Write a program that replaces occurrences of a string in a file. For details, refer to [Exercise 04](ex04/README.md).
+
+## Exercise 05: Harl 2.0
+
+Create a class to automate Harl's messages at different levels. For details, refer to [Exercise 05](ex05/README.md).
+
+## Exercise 06: Harl filter
+
+Implement a program to filter Harl's messages based on log levels. For details, refer to [Exercise 06](ex06/README.md).
+
+## Conclusion
+
+This repository showcases my solutions for the C++ Module 01 exercises, focusing on memory allocation, pointers, references, and switch statements. Each exercise enhances my understanding of these essential concepts in C++ programming.
+
+**Note:** The information provided in this README is based on the assignment's summary. Please adjust and modify it according to the actual content of your repository.
+
+<h1>resources</h1>
