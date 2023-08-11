@@ -63,4 +63,28 @@ This repository showcases my solutions for the C++ Module 01 exercises, focusing
 
 **Note:** The information provided in this README is based on the assignment's summary. Please adjust and modify it according to the actual content of your repository.
 
-<h1>resources</h1>
+# Resources
+
+## Memory Allocation
+- [Dynamic Memory Allocation in C++](https://www.geeksforgeeks.org/new-and-delete-operators-in-cpp-for-dynamic-memory/) - GeeksforGeeks
+- [Memory Management in C++](https://www.tutorialspoint.com/cplusplus/cpp_memory_management.htm) - Tutorialspoint
+- [C++ Memory Management and Allocation](https://www.cplusplus.com/doc/tutorial/dynamic/) - cplusplus.com
+
+## Pointers
+- [C++ Pointers and Memory Management](https://www.learncpp.com/cpp-tutorial/63-pointers-and-memory-management/) - LearnCpp
+- [Pointers in C++](https://www.geeksforgeeks.org/pointers-c-examples/) - GeeksforGeeks
+- [Pointers and References in C++](https://www.tutorialspoint.com/cplusplus/cpp_pointers_references.htm) - Tutorialspoint
+
+## References
+- [C++ References](https://www.learncpp.com/cpp-tutorial/74a-references/) - LearnCpp
+- [C++ References](https://www.geeksforgeeks.org/references-in-c/) - GeeksforGeeks
+- [C++ References and Pointers](https://www.tutorialspoint.com/cplusplus/cpp_references_pointers.htm) - Tutorialspoint
+
+## Switch Statement
+- [Switch Statement in C++](https://www.learncpp.com/cpp-tutorial/selection-statements-switch/) - LearnCpp
+- [C++ Switch Statement](https://www.geeksforgeeks.org/switch-statement-cc/) - GeeksforGeeks
+- [Switch Case in C++](https://www.tutorialspoint.com/cplusplus/cpp_switch_statement.htm) - Tutorialspoint
+
+## C++ Standard Library References
+- [C++ Standard Library](http://www.cplusplus.com/reference/stl/) - cplusplus.com
+- [C++ Standard Library Reference](https://en.cppreference.com/w/cpp/header) - cppreference.com
